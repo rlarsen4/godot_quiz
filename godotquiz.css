@@ -10,7 +10,7 @@
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
 	.quiz {
 		width: 100%;
 	}
